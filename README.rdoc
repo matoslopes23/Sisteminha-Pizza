@@ -1,0 +1,1 @@
+Sistema feito com a linguagem multiplataforma javascript, utilizando os conhecimentos básicos desta linguagem, com arrays e objetos
